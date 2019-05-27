@@ -1,6 +1,6 @@
 # Social Network
 
-A based social network platform using:
+A social network platform using:
 
 -   React, ReactRouter & Redux
 -   Express
